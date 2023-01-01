@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		53D025FE2961B59600D2A7D6 /* MytableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53D025FD2961B59600D2A7D6 /* MytableViewCell.swift */; };
 		F47B714A295C29F700C6A7E7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F47B7149295C29F700C6A7E7 /* AppDelegate.swift */; };
 		F47B714C295C29F700C6A7E7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F47B714B295C29F700C6A7E7 /* SceneDelegate.swift */; };
 		F47B714E295C29F700C6A7E7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F47B714D295C29F700C6A7E7 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		53D025FD2961B59600D2A7D6 /* MytableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MytableViewCell.swift; sourceTree = "<group>"; };
 		F47B7146295C29F700C6A7E7 /* TableViewAutoLayout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TableViewAutoLayout.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F47B7149295C29F700C6A7E7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F47B714B295C29F700C6A7E7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				F47B714D295C29F700C6A7E7 /* ViewController.swift */,
 				F47B714F295C29F700C6A7E7 /* Main.storyboard */,
 				F47B715D295C2ADD00C6A7E7 /* MytableViewCell.xib */,
+				53D025FD2961B59600D2A7D6 /* MytableViewCell.swift */,
 				F47B7152295C29F700C6A7E7 /* Assets.xcassets */,
 				F47B7154295C29F700C6A7E7 /* LaunchScreen.storyboard */,
 				F47B7157295C29F700C6A7E7 /* Info.plist */,
@@ -143,6 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F47B714E295C29F700C6A7E7 /* ViewController.swift in Sources */,
+				53D025FE2961B59600D2A7D6 /* MytableViewCell.swift in Sources */,
 				F47B714A295C29F700C6A7E7 /* AppDelegate.swift in Sources */,
 				F47B714C295C29F700C6A7E7 /* SceneDelegate.swift in Sources */,
 			);
